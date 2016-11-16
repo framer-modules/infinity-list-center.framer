@@ -1,12 +1,12 @@
-# Infinity looping list
-A Framer sample for infinity looping list
+# Center scale up list
+A Framer sample for infinity center scale up list 
 
 # Features
-- Support up and down scroll.
-- Recycle item layer of list.
+- Infinity scroll up/down
+- Recycle list item layer
 
-> Compatible with all devices.
-
+# Screen
+![ScreenShot](screenrecord.gif)
 
 # License
-Intro.framer is released under the MIT license. See LICENSE for details.
+Infinity-list-center.framer is released under the MIT license. See LICENSE for details.
