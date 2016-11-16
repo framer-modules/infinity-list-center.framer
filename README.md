@@ -5,7 +5,7 @@ A Framer sample for infinity center scale up list
 - Infinity scroll up/down
 - Recycle list item layer
 
-# Screen
+# Preview
 ![ScreenShot](screenrecord.gif)
 
 # License
