@@ -7,6 +7,3 @@ A Framer sample for infinity center scale up list
 
 # Preview
 ![ScreenShot](screenrecord.gif)
-
-# License
-Infinity-list-center.framer is released under the MIT license. See LICENSE for details.
