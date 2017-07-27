@@ -1,9 +1,9 @@
 # Center scale up list
 A Framer sample for infinity center scale up list 
 
-# Features
+## Features
 - Infinity scroll up/down
 - Recycle list item layer
 
-# Preview
+## Preview
 ![ScreenShot](screenrecord.gif)
